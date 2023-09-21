@@ -1,2 +1,3 @@
 # gzhan0226.github.io
-AGUI PROJECT
+[React] Agui Project
+AI 구현 예정
